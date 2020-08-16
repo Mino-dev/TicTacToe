@@ -1,0 +1,1245 @@
+Index: .idea/modules/Problems/Symmetric matrix/Tic-Tac-Toe_with_AI.Problems-Symmetric_matrix.test.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules/Problems/Symmetric matrix/Tic-Tac-Toe_with_AI.Problems-Symmetric_matrix.test.iml	(date 1597205643988)
++++ .idea/modules/Problems/Symmetric matrix/Tic-Tac-Toe_with_AI.Problems-Symmetric_matrix.test.iml	(date 1597205643988)
+@@ -0,0 +1,31 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module external.linked.project.id=":Problems-Symmetric_matrix:test" external.linked.project.path="$MODULE_DIR$/../../../../Problems/Symmetric matrix" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Tic-Tac-Toe_with_AI" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <output-test url="file://$MODULE_DIR$/../../../../Problems/Symmetric matrix/out/test/classes" />
++    <exclude-output />
++    <content url="file://$MODULE_DIR$/../../../../Problems/Symmetric matrix/src/test" />
++    <content url="file://$MODULE_DIR$/../../../../Problems/Symmetric matrix/test" />
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++    <orderEntry type="module" module-name="Tic-Tac-Toe_with_AI.Problems-Symmetric_matrix.main" />
++    <orderEntry type="library" name="Gradle: com.github.hyperskill:hs-test:v7.0.1" level="project" />
++    <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
++    <orderEntry type="library" name="Gradle: org.assertj:assertj-swing-junit:3.8.0" level="project" />
++    <orderEntry type="library" name="Gradle: com.github.stefanbirkner:system-rules:1.19.0" level="project" />
++    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpclient:4.5.9" level="project" />
++    <orderEntry type="library" name="Gradle: com.google.code.gson:gson:2.8.5" level="project" />
++    <orderEntry type="library" name="Gradle: com.cedarsoftware:json-io:4.10.1" level="project" />
++    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.9.8" level="project" />
++    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
++    <orderEntry type="library" name="Gradle: org.assertj:assertj-swing:3.8.0" level="project" />
++    <orderEntry type="library" name="Gradle: org.easytesting:fest-reflect:1.4.1" level="project" />
++    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpcore:4.4.11" level="project" />
++    <orderEntry type="library" name="Gradle: commons-logging:commons-logging:1.2" level="project" />
++    <orderEntry type="library" name="Gradle: commons-codec:commons-codec:1.11" level="project" />
++    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.9.0" level="project" />
++    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.9.8" level="project" />
++    <orderEntry type="library" name="Gradle: org.assertj:assertj-core:3.8.0" level="project" />
++    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.easytesting:fest-util:1.2.5" level="project" />
++  </component>
++  <component name="TestModuleProperties" production-module="Tic-Tac-Toe_with_AI.Problems-Symmetric_matrix.main" />
++</module>
+\ No newline at end of file
+Index: .idea/modules/Problems/Symmetric matrix/Tic-Tac-Toe_with_AI.Problems-Symmetric_matrix.main.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules/Problems/Symmetric matrix/Tic-Tac-Toe_with_AI.Problems-Symmetric_matrix.main.iml	(date 1596178421457)
++++ .idea/modules/Problems/Symmetric matrix/Tic-Tac-Toe_with_AI.Problems-Symmetric_matrix.main.iml	(date 1596178421457)
+@@ -0,0 +1,12 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module external.linked.project.id=":Problems-Symmetric_matrix:main" external.linked.project.path="$MODULE_DIR$/../../../../Problems/Symmetric matrix" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Tic-Tac-Toe_with_AI" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <output url="file://$MODULE_DIR$/../../../../Problems/Symmetric matrix/out/production/classes" />
++    <exclude-output />
++    <content url="file://$MODULE_DIR$/../../../../Problems/Symmetric matrix/src">
++      <sourceFolder url="file://$MODULE_DIR$/../../../../Problems/Symmetric matrix/src" isTestSource="false" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: .idea/modules/Tic-Tac-Toe with AI/task/Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task.test.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules/Tic-Tac-Toe with AI/task/Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task.test.iml	(date 1597205644100)
++++ .idea/modules/Tic-Tac-Toe with AI/task/Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task.test.iml	(date 1597205644100)
+@@ -0,0 +1,33 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module external.linked.project.id=":Tic-Tac-Toe_with_AI-task:test" external.linked.project.path="$MODULE_DIR$/../../../../Tic-Tac-Toe with AI/task" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Tic-Tac-Toe_with_AI" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <output-test url="file://$MODULE_DIR$/../../../../Tic-Tac-Toe with AI/task/out/test/classes" />
++    <exclude-output />
++    <content url="file://$MODULE_DIR$/../../../../Tic-Tac-Toe with AI/task/src/test" />
++    <content url="file://$MODULE_DIR$/../../../../Tic-Tac-Toe with AI/task/test">
++      <sourceFolder url="file://$MODULE_DIR$/../../../../Tic-Tac-Toe with AI/task/test" isTestSource="true" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++    <orderEntry type="module" module-name="Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task.main" />
++    <orderEntry type="library" name="Gradle: com.github.hyperskill:hs-test:v7.0.1" level="project" />
++    <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
++    <orderEntry type="library" name="Gradle: org.assertj:assertj-swing-junit:3.8.0" level="project" />
++    <orderEntry type="library" name="Gradle: com.github.stefanbirkner:system-rules:1.19.0" level="project" />
++    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpclient:4.5.9" level="project" />
++    <orderEntry type="library" name="Gradle: com.google.code.gson:gson:2.8.5" level="project" />
++    <orderEntry type="library" name="Gradle: com.cedarsoftware:json-io:4.10.1" level="project" />
++    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.9.8" level="project" />
++    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
++    <orderEntry type="library" name="Gradle: org.assertj:assertj-swing:3.8.0" level="project" />
++    <orderEntry type="library" name="Gradle: org.easytesting:fest-reflect:1.4.1" level="project" />
++    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpcore:4.4.11" level="project" />
++    <orderEntry type="library" name="Gradle: commons-logging:commons-logging:1.2" level="project" />
++    <orderEntry type="library" name="Gradle: commons-codec:commons-codec:1.11" level="project" />
++    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.9.0" level="project" />
++    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.9.8" level="project" />
++    <orderEntry type="library" name="Gradle: org.assertj:assertj-core:3.8.0" level="project" />
++    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.easytesting:fest-util:1.2.5" level="project" />
++  </component>
++  <component name="TestModuleProperties" production-module="Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task.main" />
++</module>
+\ No newline at end of file
+Index: .idea/modules/Tic-Tac-Toe with AI/task/Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task.main.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules/Tic-Tac-Toe with AI/task/Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task.main.iml	(date 1596178421593)
++++ .idea/modules/Tic-Tac-Toe with AI/task/Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task.main.iml	(date 1596178421593)
+@@ -0,0 +1,12 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module external.linked.project.id=":Tic-Tac-Toe_with_AI-task:main" external.linked.project.path="$MODULE_DIR$/../../../../Tic-Tac-Toe with AI/task" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Tic-Tac-Toe_with_AI" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <output url="file://$MODULE_DIR$/../../../../Tic-Tac-Toe with AI/task/out/production/classes" />
++    <exclude-output />
++    <content url="file://$MODULE_DIR$/../../../../Tic-Tac-Toe with AI/task/src">
++      <sourceFolder url="file://$MODULE_DIR$/../../../../Tic-Tac-Toe with AI/task/src" isTestSource="false" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: .idea/modules/util/Tic-Tac-Toe_with_AI.util.test.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules/util/Tic-Tac-Toe_with_AI.util.test.iml	(date 1597205644224)
++++ .idea/modules/util/Tic-Tac-Toe_with_AI.util.test.iml	(date 1597205644224)
+@@ -0,0 +1,31 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module external.linked.project.id=":util:test" external.linked.project.path="$MODULE_DIR$/../../../util" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="Tic-Tac-Toe_with_AI" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <output-test url="file://$MODULE_DIR$/../../../util/out/test/classes" />
++    <exclude-output />
++    <content url="file://$MODULE_DIR$/../../../util/src/test" />
++    <content url="file://$MODULE_DIR$/../../../util/test" />
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++    <orderEntry type="module" module-name="Tic-Tac-Toe_with_AI.util.main" />
++    <orderEntry type="library" name="Gradle: com.github.hyperskill:hs-test:v7.0.1" level="project" />
++    <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
++    <orderEntry type="library" name="Gradle: org.assertj:assertj-swing-junit:3.8.0" level="project" />
++    <orderEntry type="library" name="Gradle: com.github.stefanbirkner:system-rules:1.19.0" level="project" />
++    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpclient:4.5.9" level="project" />
++    <orderEntry type="library" name="Gradle: com.google.code.gson:gson:2.8.5" level="project" />
++    <orderEntry type="library" name="Gradle: com.cedarsoftware:json-io:4.10.1" level="project" />
++    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.9.8" level="project" />
++    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
++    <orderEntry type="library" name="Gradle: org.assertj:assertj-swing:3.8.0" level="project" />
++    <orderEntry type="library" name="Gradle: org.easytesting:fest-reflect:1.4.1" level="project" />
++    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpcore:4.4.11" level="project" />
++    <orderEntry type="library" name="Gradle: commons-logging:commons-logging:1.2" level="project" />
++    <orderEntry type="library" name="Gradle: commons-codec:commons-codec:1.11" level="project" />
++    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.9.0" level="project" />
++    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.9.8" level="project" />
++    <orderEntry type="library" name="Gradle: org.assertj:assertj-core:3.8.0" level="project" />
++    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.easytesting:fest-util:1.2.5" level="project" />
++  </component>
++  <component name="TestModuleProperties" production-module="Tic-Tac-Toe_with_AI.util.main" />
++</module>
+\ No newline at end of file
+Index: .idea/modules/util/Tic-Tac-Toe_with_AI.util.main.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules/util/Tic-Tac-Toe_with_AI.util.main.iml	(date 1596178421741)
++++ .idea/modules/util/Tic-Tac-Toe_with_AI.util.main.iml	(date 1596178421741)
+@@ -0,0 +1,10 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module external.linked.project.id=":util:main" external.linked.project.path="$MODULE_DIR$/../../../util" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="Tic-Tac-Toe_with_AI" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <output url="file://$MODULE_DIR$/../../../util/out/production/classes" />
++    <exclude-output />
++    <content url="file://$MODULE_DIR$/../../../util/src" />
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: .idea/compiler.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/compiler.xml	(date 1596177231567)
++++ .idea/compiler.xml	(date 1596177231567)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="CompilerConfiguration">
++    <bytecodeTargetLevel target="11" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules.xml	(date 1597461720806)
++++ .idea/modules.xml	(date 1597461720806)
+@@ -0,0 +1,32 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe_with_AI.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe_with_AI.iml" />
++      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Compact strings with AsciiCharSequence/Tic-Tac-Toe_with_AI.Problems-Compact_strings_with_AsciiCharSequence.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Compact strings with AsciiCharSequence/Tic-Tac-Toe_with_AI.Problems-Compact_strings_with_AsciiCharSequence.iml" />
++      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Compact strings with AsciiCharSequence/Tic-Tac-Toe_with_AI.Problems-Compact_strings_with_AsciiCharSequence.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Compact strings with AsciiCharSequence/Tic-Tac-Toe_with_AI.Problems-Compact_strings_with_AsciiCharSequence.main.iml" />
++      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Compact strings with AsciiCharSequence/Tic-Tac-Toe_with_AI.Problems-Compact_strings_with_AsciiCharSequence.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Compact strings with AsciiCharSequence/Tic-Tac-Toe_with_AI.Problems-Compact_strings_with_AsciiCharSequence.test.iml" />
++      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Find the seed/Tic-Tac-Toe_with_AI.Problems-Find_the_seed.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Find the seed/Tic-Tac-Toe_with_AI.Problems-Find_the_seed.iml" />
++      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Find the seed/Tic-Tac-Toe_with_AI.Problems-Find_the_seed.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Find the seed/Tic-Tac-Toe_with_AI.Problems-Find_the_seed.main.iml" />
++      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Find the seed/Tic-Tac-Toe_with_AI.Problems-Find_the_seed.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Find the seed/Tic-Tac-Toe_with_AI.Problems-Find_the_seed.test.iml" />
++      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Getting the fullname/Tic-Tac-Toe_with_AI.Problems-Getting_the_fullname.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Getting the fullname/Tic-Tac-Toe_with_AI.Problems-Getting_the_fullname.iml" />
++      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Getting the fullname/Tic-Tac-Toe_with_AI.Problems-Getting_the_fullname.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Getting the fullname/Tic-Tac-Toe_with_AI.Problems-Getting_the_fullname.main.iml" />
++      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Getting the fullname/Tic-Tac-Toe_with_AI.Problems-Getting_the_fullname.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Getting the fullname/Tic-Tac-Toe_with_AI.Problems-Getting_the_fullname.test.iml" />
++      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Mutable geometric shapes/Tic-Tac-Toe_with_AI.Problems-Mutable_geometric_shapes.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Mutable geometric shapes/Tic-Tac-Toe_with_AI.Problems-Mutable_geometric_shapes.iml" />
++      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Mutable geometric shapes/Tic-Tac-Toe_with_AI.Problems-Mutable_geometric_shapes.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Mutable geometric shapes/Tic-Tac-Toe_with_AI.Problems-Mutable_geometric_shapes.main.iml" />
++      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Mutable geometric shapes/Tic-Tac-Toe_with_AI.Problems-Mutable_geometric_shapes.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Mutable geometric shapes/Tic-Tac-Toe_with_AI.Problems-Mutable_geometric_shapes.test.iml" />
++      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Symmetric matrix/Tic-Tac-Toe_with_AI.Problems-Symmetric_matrix.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Symmetric matrix/Tic-Tac-Toe_with_AI.Problems-Symmetric_matrix.iml" />
++      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Symmetric matrix/Tic-Tac-Toe_with_AI.Problems-Symmetric_matrix.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Symmetric matrix/Tic-Tac-Toe_with_AI.Problems-Symmetric_matrix.main.iml" />
++      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Symmetric matrix/Tic-Tac-Toe_with_AI.Problems-Symmetric_matrix.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Symmetric matrix/Tic-Tac-Toe_with_AI.Problems-Symmetric_matrix.test.iml" />
++      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The index of the first max in an array/Tic-Tac-Toe_with_AI.Problems-The_index_of_the_first_max_in_an_array.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The index of the first max in an array/Tic-Tac-Toe_with_AI.Problems-The_index_of_the_first_max_in_an_array.iml" />
++      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The index of the first max in an array/Tic-Tac-Toe_with_AI.Problems-The_index_of_the_first_max_in_an_array.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The index of the first max in an array/Tic-Tac-Toe_with_AI.Problems-The_index_of_the_first_max_in_an_array.main.iml" />
++      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The index of the first max in an array/Tic-Tac-Toe_with_AI.Problems-The_index_of_the_first_max_in_an_array.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The index of the first max in an array/Tic-Tac-Toe_with_AI.Problems-The_index_of_the_first_max_in_an_array.test.iml" />
++      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe with AI/task/Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe with AI/task/Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task.iml" />
++      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe with AI/task/Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe with AI/task/Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task.main.iml" />
++      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe with AI/task/Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe with AI/task/Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task.test.iml" />
++      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe_with_AI.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe_with_AI.util.iml" />
++      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe_with_AI.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe_with_AI.util.main.iml" />
++      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe_with_AI.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe_with_AI.util.test.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/jarRepositories.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/jarRepositories.xml	(date 1596178421993)
++++ .idea/jarRepositories.xml	(date 1596178421993)
+@@ -0,0 +1,25 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="RemoteRepositoriesConfiguration">
++    <remote-repository>
++      <option name="id" value="central" />
++      <option name="name" value="Maven Central repository" />
++      <option name="url" value="https://repo1.maven.org/maven2" />
++    </remote-repository>
++    <remote-repository>
++      <option name="id" value="jboss.community" />
++      <option name="name" value="JBoss Community repository" />
++      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
++    </remote-repository>
++    <remote-repository>
++      <option name="id" value="MavenRepo" />
++      <option name="name" value="MavenRepo" />
++      <option name="url" value="https://repo.maven.apache.org/maven2/" />
++    </remote-repository>
++    <remote-repository>
++      <option name="id" value="maven" />
++      <option name="name" value="maven" />
++      <option name="url" value="https://jitpack.io" />
++    </remote-repository>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__com_cedarsoftware_json_io_4_10_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Gradle__com_cedarsoftware_json_io_4_10_1.xml	(date 1596178422221)
++++ .idea/libraries/Gradle__com_cedarsoftware_json_io_4_10_1.xml	(date 1596178422221)
+@@ -0,0 +1,11 @@
++<component name="libraryTable">
++  <library name="Gradle: com.cedarsoftware:json-io:4.10.1">
++    <CLASSES>
++      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.cedarsoftware/json-io/4.10.1/e9083dfdee4899ad2f6a83618c20ab3d7b88430b/json-io-4.10.1.jar!/" />
++    </CLASSES>
++    <JAVADOC />
++    <SOURCES>
++      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.cedarsoftware/json-io/4.10.1/7729a1f44d22bd907834f6337de96d18b69e2a30/json-io-4.10.1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml	(date 1596178422341)
++++ .idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml	(date 1596178422341)
+@@ -0,0 +1,11 @@
++<component name="libraryTable">
++  <library name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.9.0">
++    <CLASSES>
++      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.9.0/7c10d545325e3a6e72e06381afe469fd40eb701/jackson-annotations-2.9.0.jar!/" />
++    </CLASSES>
++    <JAVADOC />
++    <SOURCES>
++      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.9.0/a0ad4e203304ccab7e01266fa814115850edb8a9/jackson-annotations-2.9.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_9_8.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_9_8.xml	(date 1596178422461)
++++ .idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_9_8.xml	(date 1596178422461)
+@@ -0,0 +1,14 @@
++<component name="libraryTable">
++  <library name="Gradle: com.fasterxml.jackson.core:jackson-core:2.9.8">
++    <ANNOTATIONS>
++      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/externalAnnotations/com/fasterxml/jackson/core/jackson-core/2.9.6-an1/jackson-core-2.9.6-an1-annotations.zip!/" />
++    </ANNOTATIONS>
++    <CLASSES>
++      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.9.8/f5a654e4675769c716e5b387830d19b501ca191/jackson-core-2.9.8.jar!/" />
++    </CLASSES>
++    <JAVADOC />
++    <SOURCES>
++      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.9.8/ecaea301e166a0b48f11615864246de739b6619b/jackson-core-2.9.8-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml	(date 1596178422569)
++++ .idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml	(date 1596178422569)
+@@ -0,0 +1,14 @@
++<component name="libraryTable">
++  <library name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.9.8">
++    <ANNOTATIONS>
++      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/externalAnnotations/com/fasterxml/jackson/core/jackson-databind/2.9.6-an1/jackson-databind-2.9.6-an1-annotations.zip!/" />
++    </ANNOTATIONS>
++    <CLASSES>
++      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.9.8/11283f21cc480aa86c4df7a0a3243ec508372ed2/jackson-databind-2.9.8.jar!/" />
++    </CLASSES>
++    <JAVADOC />
++    <SOURCES>
++      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.9.8/f66792d499a6fea6c7a743558f940e0ebf775ce3/jackson-databind-2.9.8-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__com_github_hyperskill_hs_test_v7_0_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Gradle__com_github_hyperskill_hs_test_v7_0_1.xml	(date 1596178422697)
++++ .idea/libraries/Gradle__com_github_hyperskill_hs_test_v7_0_1.xml	(date 1596178422697)
+@@ -0,0 +1,11 @@
++<component name="libraryTable">
++  <library name="Gradle: com.github.hyperskill:hs-test:v7.0.1">
++    <CLASSES>
++      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.hyperskill/hs-test/v7.0.1/6a9986b1106f34fc47d319a26a52fef1e5ff30c7/hs-test-v7.0.1.jar!/" />
++    </CLASSES>
++    <JAVADOC />
++    <SOURCES>
++      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.hyperskill/hs-test/v7.0.1/d3637ac3b960a3d901582ba7af0502926e42982a/hs-test-v7.0.1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__com_github_stefanbirkner_system_rules_1_19_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Gradle__com_github_stefanbirkner_system_rules_1_19_0.xml	(date 1596178422849)
++++ .idea/libraries/Gradle__com_github_stefanbirkner_system_rules_1_19_0.xml	(date 1596178422849)
+@@ -0,0 +1,11 @@
++<component name="libraryTable">
++  <library name="Gradle: com.github.stefanbirkner:system-rules:1.19.0">
++    <CLASSES>
++      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.stefanbirkner/system-rules/1.19.0/d541c9a1cff0dda32e2436c74562e2e4aa6c88cd/system-rules-1.19.0.jar!/" />
++    </CLASSES>
++    <JAVADOC />
++    <SOURCES>
++      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.stefanbirkner/system-rules/1.19.0/7d578740686b5e2377decedbde921bd5a7374b9e/system-rules-1.19.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__com_google_code_gson_gson_2_8_5.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Gradle__com_google_code_gson_gson_2_8_5.xml	(date 1596178422961)
++++ .idea/libraries/Gradle__com_google_code_gson_gson_2_8_5.xml	(date 1596178422961)
+@@ -0,0 +1,11 @@
++<component name="libraryTable">
++  <library name="Gradle: com.google.code.gson:gson:2.8.5">
++    <CLASSES>
++      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.5/f645ed69d595b24d4cf8b3fbb64cc505bede8829/gson-2.8.5.jar!/" />
++    </CLASSES>
++    <JAVADOC />
++    <SOURCES>
++      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.5/c5b4c491aecb72e7c32a78da0b5c6b9cda8dee0f/gson-2.8.5-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__commons_codec_commons_codec_1_11.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Gradle__commons_codec_commons_codec_1_11.xml	(date 1596178423109)
++++ .idea/libraries/Gradle__commons_codec_commons_codec_1_11.xml	(date 1596178423109)
+@@ -0,0 +1,11 @@
++<component name="libraryTable">
++  <library name="Gradle: commons-codec:commons-codec:1.11">
++    <CLASSES>
++      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.11/3acb4705652e16236558f0f4f2192cc33c3bd189/commons-codec-1.11.jar!/" />
++    </CLASSES>
++    <JAVADOC />
++    <SOURCES>
++      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.11/bce4ba84fd527950e35040b20a991c63e90e2850/commons-codec-1.11-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml	(date 1596178423237)
++++ .idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml	(date 1596178423237)
+@@ -0,0 +1,11 @@
++<component name="libraryTable">
++  <library name="Gradle: commons-logging:commons-logging:1.2">
++    <CLASSES>
++      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar!/" />
++    </CLASSES>
++    <JAVADOC />
++    <SOURCES>
++      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__junit_junit_4_12.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Gradle__junit_junit_4_12.xml	(date 1596178423445)
++++ .idea/libraries/Gradle__junit_junit_4_12.xml	(date 1596178423445)
+@@ -0,0 +1,14 @@
++<component name="libraryTable">
++  <library name="Gradle: junit:junit:4.12">
++    <ANNOTATIONS>
++      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/externalAnnotations/junit/junit/4.12-an1/junit-4.12-an1-annotations.zip!/" />
++    </ANNOTATIONS>
++    <CLASSES>
++      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar!/" />
++    </CLASSES>
++    <JAVADOC />
++    <SOURCES>
++      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_9.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_9.xml	(date 1596178423565)
++++ .idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_9.xml	(date 1596178423565)
+@@ -0,0 +1,11 @@
++<component name="libraryTable">
++  <library name="Gradle: org.apache.httpcomponents:httpclient:4.5.9">
++    <CLASSES>
++      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.9/a25c1be5ce99d0ce99aa43eb982868c796dd0775/httpclient-4.5.9.jar!/" />
++    </CLASSES>
++    <JAVADOC />
++    <SOURCES>
++      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.9/88c1ea157c2a2aa51e24f6a916226e72a0c98e05/httpclient-4.5.9-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_11.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_11.xml	(date 1596178423729)
++++ .idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_11.xml	(date 1596178423729)
+@@ -0,0 +1,11 @@
++<component name="libraryTable">
++  <library name="Gradle: org.apache.httpcomponents:httpcore:4.4.11">
++    <CLASSES>
++      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.11/de748cf874e4e193b42eceea9fe5574fabb9d4df/httpcore-4.4.11.jar!/" />
++    </CLASSES>
++    <JAVADOC />
++    <SOURCES>
++      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.11/95167d269607b358ba3ed7030ccd336dad8591a0/httpcore-4.4.11-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__org_assertj_assertj_core_3_8_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Gradle__org_assertj_assertj_core_3_8_0.xml	(date 1596178423937)
++++ .idea/libraries/Gradle__org_assertj_assertj_core_3_8_0.xml	(date 1596178423937)
+@@ -0,0 +1,11 @@
++<component name="libraryTable">
++  <library name="Gradle: org.assertj:assertj-core:3.8.0">
++    <CLASSES>
++      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/3.8.0/b209d90ff2e279bee3e02547ee7b11349c52d0e3/assertj-core-3.8.0.jar!/" />
++    </CLASSES>
++    <JAVADOC />
++    <SOURCES>
++      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/3.8.0/85dab3e124fb391b10196df9bfdb43640deabb09/assertj-core-3.8.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__org_assertj_assertj_swing_3_8_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Gradle__org_assertj_assertj_swing_3_8_0.xml	(date 1596178424113)
++++ .idea/libraries/Gradle__org_assertj_assertj_swing_3_8_0.xml	(date 1596178424113)
+@@ -0,0 +1,11 @@
++<component name="libraryTable">
++  <library name="Gradle: org.assertj:assertj-swing:3.8.0">
++    <CLASSES>
++      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-swing/3.8.0/43e985f95237bf9c5fbfa21230f30cc5e859a4fb/assertj-swing-3.8.0.jar!/" />
++    </CLASSES>
++    <JAVADOC />
++    <SOURCES>
++      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-swing/3.8.0/a3922fafa3f584939ec7222f49d85e3c30af484b/assertj-swing-3.8.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__org_assertj_assertj_swing_junit_3_8_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Gradle__org_assertj_assertj_swing_junit_3_8_0.xml	(date 1596178424269)
++++ .idea/libraries/Gradle__org_assertj_assertj_swing_junit_3_8_0.xml	(date 1596178424269)
+@@ -0,0 +1,11 @@
++<component name="libraryTable">
++  <library name="Gradle: org.assertj:assertj-swing-junit:3.8.0">
++    <CLASSES>
++      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-swing-junit/3.8.0/51a93135b0edac8f92cd67bceea6efa2e2dfa870/assertj-swing-junit-3.8.0.jar!/" />
++    </CLASSES>
++    <JAVADOC />
++    <SOURCES>
++      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-swing-junit/3.8.0/7fe02c8b810db8a3fa911d7a5c2d8d0e5f76a759/assertj-swing-junit-3.8.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__org_easytesting_fest_reflect_1_4_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Gradle__org_easytesting_fest_reflect_1_4_1.xml	(date 1596178424445)
++++ .idea/libraries/Gradle__org_easytesting_fest_reflect_1_4_1.xml	(date 1596178424445)
+@@ -0,0 +1,11 @@
++<component name="libraryTable">
++  <library name="Gradle: org.easytesting:fest-reflect:1.4.1">
++    <CLASSES>
++      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.easytesting/fest-reflect/1.4.1/2b92d5275e92a49e16c7ce6bd7e46b9080db0530/fest-reflect-1.4.1.jar!/" />
++    </CLASSES>
++    <JAVADOC />
++    <SOURCES>
++      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.easytesting/fest-reflect/1.4.1/22ddeee19a01561871ba1018bd8a3d39c099dfc4/fest-reflect-1.4.1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__org_easytesting_fest_util_1_2_5.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Gradle__org_easytesting_fest_util_1_2_5.xml	(date 1596178424625)
++++ .idea/libraries/Gradle__org_easytesting_fest_util_1_2_5.xml	(date 1596178424625)
+@@ -0,0 +1,11 @@
++<component name="libraryTable">
++  <library name="Gradle: org.easytesting:fest-util:1.2.5">
++    <CLASSES>
++      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.easytesting/fest-util/1.2.5/c4a8d7305b23b8d043be12c979813b096df11f44/fest-util-1.2.5.jar!/" />
++    </CLASSES>
++    <JAVADOC />
++    <SOURCES>
++      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.easytesting/fest-util/1.2.5/51c853a963c33e146d5b4461d28e740a42483224/fest-util-1.2.5-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml	(date 1596178424777)
++++ .idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml	(date 1596178424777)
+@@ -0,0 +1,11 @@
++<component name="libraryTable">
++  <library name="Gradle: org.hamcrest:hamcrest-core:1.3">
++    <CLASSES>
++      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar!/" />
++    </CLASSES>
++    <JAVADOC />
++    <SOURCES>
++      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/1dc37250fbc78e23a65a67fbbaf71d2e9cbc3c0b/hamcrest-core-1.3-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/discord.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/discord.xml	(date 1596180370423)
++++ .idea/discord.xml	(date 1596180370423)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="DiscordProjectSettings">
++    <option name="show" value="HIDE" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/misc.xml	(date 1596420763743)
++++ .idea/misc.xml	(date 1596420763743)
+@@ -0,0 +1,4 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="14" project-jdk-type="JavaSDK" />
++</project>
+\ No newline at end of file
+Index: .idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/.gitignore	(date 1596176924895)
++++ .idea/.gitignore	(date 1596176924895)
+@@ -0,0 +1,3 @@
++# Default ignored files
++/shelf/
++/workspace.xml
+Index: .idea/.name
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/.name	(date 1596177231243)
++++ .idea/.name	(date 1596177231243)
+@@ -0,0 +1,1 @@
++Tic-Tac-Toe_with_AI
+\ No newline at end of file
+Index: .idea/modules/Problems/Getting the fullname/Tic-Tac-Toe_with_AI.Problems-Getting_the_fullname.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules/Problems/Getting the fullname/Tic-Tac-Toe_with_AI.Problems-Getting_the_fullname.iml	(date 1596602370271)
++++ .idea/modules/Problems/Getting the fullname/Tic-Tac-Toe_with_AI.Problems-Getting_the_fullname.iml	(date 1596602370271)
+@@ -0,0 +1,13 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module external.linked.project.id=":Problems-Getting_the_fullname" external.linked.project.path="$MODULE_DIR$/../../../../Problems/Getting the fullname" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Tic-Tac-Toe_with_AI" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager" inherit-compiler-output="true">
++    <exclude-output />
++    <content url="file://$MODULE_DIR$/../../../../Problems/Getting the fullname">
++      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems/Getting the fullname/.gradle" />
++      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems/Getting the fullname/build" />
++      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems/Getting the fullname/out" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: .idea/modules/Problems/Getting the fullname/Tic-Tac-Toe_with_AI.Problems-Getting_the_fullname.main.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules/Problems/Getting the fullname/Tic-Tac-Toe_with_AI.Problems-Getting_the_fullname.main.iml	(date 1596602371755)
++++ .idea/modules/Problems/Getting the fullname/Tic-Tac-Toe_with_AI.Problems-Getting_the_fullname.main.iml	(date 1596602371755)
+@@ -0,0 +1,12 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module external.linked.project.id=":Problems-Getting_the_fullname:main" external.linked.project.path="$MODULE_DIR$/../../../../Problems/Getting the fullname" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Tic-Tac-Toe_with_AI" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <output url="file://$MODULE_DIR$/../../../../Problems/Getting the fullname/out/production/classes" />
++    <exclude-output />
++    <content url="file://$MODULE_DIR$/../../../../Problems/Getting the fullname/src">
++      <sourceFolder url="file://$MODULE_DIR$/../../../../Problems/Getting the fullname/src" isTestSource="false" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: .idea/modules/Problems/Getting the fullname/Tic-Tac-Toe_with_AI.Problems-Getting_the_fullname.test.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules/Problems/Getting the fullname/Tic-Tac-Toe_with_AI.Problems-Getting_the_fullname.test.iml	(date 1597205643876)
++++ .idea/modules/Problems/Getting the fullname/Tic-Tac-Toe_with_AI.Problems-Getting_the_fullname.test.iml	(date 1597205643876)
+@@ -0,0 +1,31 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module external.linked.project.id=":Problems-Getting_the_fullname:test" external.linked.project.path="$MODULE_DIR$/../../../../Problems/Getting the fullname" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Tic-Tac-Toe_with_AI" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <output-test url="file://$MODULE_DIR$/../../../../Problems/Getting the fullname/out/test/classes" />
++    <exclude-output />
++    <content url="file://$MODULE_DIR$/../../../../Problems/Getting the fullname/src/test" />
++    <content url="file://$MODULE_DIR$/../../../../Problems/Getting the fullname/test" />
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++    <orderEntry type="module" module-name="Tic-Tac-Toe_with_AI.Problems-Getting_the_fullname.main" />
++    <orderEntry type="library" name="Gradle: com.github.hyperskill:hs-test:v7.0.1" level="project" />
++    <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
++    <orderEntry type="library" name="Gradle: org.assertj:assertj-swing-junit:3.8.0" level="project" />
++    <orderEntry type="library" name="Gradle: com.github.stefanbirkner:system-rules:1.19.0" level="project" />
++    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpclient:4.5.9" level="project" />
++    <orderEntry type="library" name="Gradle: com.google.code.gson:gson:2.8.5" level="project" />
++    <orderEntry type="library" name="Gradle: com.cedarsoftware:json-io:4.10.1" level="project" />
++    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.9.8" level="project" />
++    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
++    <orderEntry type="library" name="Gradle: org.assertj:assertj-swing:3.8.0" level="project" />
++    <orderEntry type="library" name="Gradle: org.easytesting:fest-reflect:1.4.1" level="project" />
++    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpcore:4.4.11" level="project" />
++    <orderEntry type="library" name="Gradle: commons-logging:commons-logging:1.2" level="project" />
++    <orderEntry type="library" name="Gradle: commons-codec:commons-codec:1.11" level="project" />
++    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.9.0" level="project" />
++    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.9.8" level="project" />
++    <orderEntry type="library" name="Gradle: org.assertj:assertj-core:3.8.0" level="project" />
++    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.easytesting:fest-util:1.2.5" level="project" />
++  </component>
++  <component name="TestModuleProperties" production-module="Tic-Tac-Toe_with_AI.Problems-Getting_the_fullname.main" />
++</module>
+\ No newline at end of file
+Index: .idea/modules/Problems/Find the seed/Tic-Tac-Toe_with_AI.Problems-Find_the_seed.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules/Problems/Find the seed/Tic-Tac-Toe_with_AI.Problems-Find_the_seed.iml	(date 1596422498386)
++++ .idea/modules/Problems/Find the seed/Tic-Tac-Toe_with_AI.Problems-Find_the_seed.iml	(date 1596422498386)
+@@ -0,0 +1,13 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module external.linked.project.id=":Problems-Find_the_seed" external.linked.project.path="$MODULE_DIR$/../../../../Problems/Find the seed" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Tic-Tac-Toe_with_AI" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager" inherit-compiler-output="true">
++    <exclude-output />
++    <content url="file://$MODULE_DIR$/../../../../Problems/Find the seed">
++      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems/Find the seed/.gradle" />
++      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems/Find the seed/build" />
++      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems/Find the seed/out" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/vcs.xml	(date 1597548221579)
++++ .idea/vcs.xml	(date 1597548221579)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/modules/Problems/The index of the first max in an array/Tic-Tac-Toe_with_AI.Problems-The_index_of_the_first_max_in_an_array.test.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules/Problems/The index of the first max in an array/Tic-Tac-Toe_with_AI.Problems-The_index_of_the_first_max_in_an_array.test.iml	(date 1597205644756)
++++ .idea/modules/Problems/The index of the first max in an array/Tic-Tac-Toe_with_AI.Problems-The_index_of_the_first_max_in_an_array.test.iml	(date 1597205644756)
+@@ -0,0 +1,31 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module external.linked.project.id=":Problems-The_index_of_the_first_max_in_an_array:test" external.linked.project.path="$MODULE_DIR$/../../../../Problems/The index of the first max in an array" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Tic-Tac-Toe_with_AI" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <output-test url="file://$MODULE_DIR$/../../../../Problems/The index of the first max in an array/out/test/classes" />
++    <exclude-output />
++    <content url="file://$MODULE_DIR$/../../../../Problems/The index of the first max in an array/src/test" />
++    <content url="file://$MODULE_DIR$/../../../../Problems/The index of the first max in an array/test" />
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++    <orderEntry type="module" module-name="Tic-Tac-Toe_with_AI.Problems-The_index_of_the_first_max_in_an_array.main" />
++    <orderEntry type="library" name="Gradle: com.github.hyperskill:hs-test:v7.0.1" level="project" />
++    <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
++    <orderEntry type="library" name="Gradle: org.assertj:assertj-swing-junit:3.8.0" level="project" />
++    <orderEntry type="library" name="Gradle: com.github.stefanbirkner:system-rules:1.19.0" level="project" />
++    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpclient:4.5.9" level="project" />
++    <orderEntry type="library" name="Gradle: com.google.code.gson:gson:2.8.5" level="project" />
++    <orderEntry type="library" name="Gradle: com.cedarsoftware:json-io:4.10.1" level="project" />
++    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.9.8" level="project" />
++    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
++    <orderEntry type="library" name="Gradle: org.assertj:assertj-swing:3.8.0" level="project" />
++    <orderEntry type="library" name="Gradle: org.easytesting:fest-reflect:1.4.1" level="project" />
++    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpcore:4.4.11" level="project" />
++    <orderEntry type="library" name="Gradle: commons-logging:commons-logging:1.2" level="project" />
++    <orderEntry type="library" name="Gradle: commons-codec:commons-codec:1.11" level="project" />
++    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.9.0" level="project" />
++    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.9.8" level="project" />
++    <orderEntry type="library" name="Gradle: org.assertj:assertj-core:3.8.0" level="project" />
++    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.easytesting:fest-util:1.2.5" level="project" />
++  </component>
++  <component name="TestModuleProperties" production-module="Tic-Tac-Toe_with_AI.Problems-The_index_of_the_first_max_in_an_array.main" />
++</module>
+\ No newline at end of file
+Index: .idea/modules/Problems/Find the seed/Tic-Tac-Toe_with_AI.Problems-Find_the_seed.main.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules/Problems/Find the seed/Tic-Tac-Toe_with_AI.Problems-Find_the_seed.main.iml	(date 1596422498898)
++++ .idea/modules/Problems/Find the seed/Tic-Tac-Toe_with_AI.Problems-Find_the_seed.main.iml	(date 1596422498898)
+@@ -0,0 +1,12 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module external.linked.project.id=":Problems-Find_the_seed:main" external.linked.project.path="$MODULE_DIR$/../../../../Problems/Find the seed" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Tic-Tac-Toe_with_AI" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <output url="file://$MODULE_DIR$/../../../../Problems/Find the seed/out/production/classes" />
++    <exclude-output />
++    <content url="file://$MODULE_DIR$/../../../../Problems/Find the seed/src">
++      <sourceFolder url="file://$MODULE_DIR$/../../../../Problems/Find the seed/src" isTestSource="false" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: .idea/modules/Problems/The index of the first max in an array/Tic-Tac-Toe_with_AI.Problems-The_index_of_the_first_max_in_an_array.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules/Problems/The index of the first max in an array/Tic-Tac-Toe_with_AI.Problems-The_index_of_the_first_max_in_an_array.iml	(date 1597205644660)
++++ .idea/modules/Problems/The index of the first max in an array/Tic-Tac-Toe_with_AI.Problems-The_index_of_the_first_max_in_an_array.iml	(date 1597205644660)
+@@ -0,0 +1,13 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module external.linked.project.id=":Problems-The_index_of_the_first_max_in_an_array" external.linked.project.path="$MODULE_DIR$/../../../../Problems/The index of the first max in an array" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Tic-Tac-Toe_with_AI" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager" inherit-compiler-output="true">
++    <exclude-output />
++    <content url="file://$MODULE_DIR$/../../../../Problems/The index of the first max in an array">
++      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems/The index of the first max in an array/.gradle" />
++      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems/The index of the first max in an array/build" />
++      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems/The index of the first max in an array/out" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: .idea/modules/Problems/Find the seed/Tic-Tac-Toe_with_AI.Problems-Find_the_seed.test.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules/Problems/Find the seed/Tic-Tac-Toe_with_AI.Problems-Find_the_seed.test.iml	(date 1597205643788)
++++ .idea/modules/Problems/Find the seed/Tic-Tac-Toe_with_AI.Problems-Find_the_seed.test.iml	(date 1597205643788)
+@@ -0,0 +1,31 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module external.linked.project.id=":Problems-Find_the_seed:test" external.linked.project.path="$MODULE_DIR$/../../../../Problems/Find the seed" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Tic-Tac-Toe_with_AI" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <output-test url="file://$MODULE_DIR$/../../../../Problems/Find the seed/out/test/classes" />
++    <exclude-output />
++    <content url="file://$MODULE_DIR$/../../../../Problems/Find the seed/src/test" />
++    <content url="file://$MODULE_DIR$/../../../../Problems/Find the seed/test" />
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++    <orderEntry type="module" module-name="Tic-Tac-Toe_with_AI.Problems-Find_the_seed.main" />
++    <orderEntry type="library" name="Gradle: com.github.hyperskill:hs-test:v7.0.1" level="project" />
++    <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
++    <orderEntry type="library" name="Gradle: org.assertj:assertj-swing-junit:3.8.0" level="project" />
++    <orderEntry type="library" name="Gradle: com.github.stefanbirkner:system-rules:1.19.0" level="project" />
++    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpclient:4.5.9" level="project" />
++    <orderEntry type="library" name="Gradle: com.google.code.gson:gson:2.8.5" level="project" />
++    <orderEntry type="library" name="Gradle: com.cedarsoftware:json-io:4.10.1" level="project" />
++    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.9.8" level="project" />
++    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
++    <orderEntry type="library" name="Gradle: org.assertj:assertj-swing:3.8.0" level="project" />
++    <orderEntry type="library" name="Gradle: org.easytesting:fest-reflect:1.4.1" level="project" />
++    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpcore:4.4.11" level="project" />
++    <orderEntry type="library" name="Gradle: commons-logging:commons-logging:1.2" level="project" />
++    <orderEntry type="library" name="Gradle: commons-codec:commons-codec:1.11" level="project" />
++    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.9.0" level="project" />
++    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.9.8" level="project" />
++    <orderEntry type="library" name="Gradle: org.assertj:assertj-core:3.8.0" level="project" />
++    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.easytesting:fest-util:1.2.5" level="project" />
++  </component>
++  <component name="TestModuleProperties" production-module="Tic-Tac-Toe_with_AI.Problems-Find_the_seed.main" />
++</module>
+\ No newline at end of file
+Index: .idea/modules/Problems/The index of the first max in an array/Tic-Tac-Toe_with_AI.Problems-The_index_of_the_first_max_in_an_array.main.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules/Problems/The index of the first max in an array/Tic-Tac-Toe_with_AI.Problems-The_index_of_the_first_max_in_an_array.main.iml	(date 1597205644840)
++++ .idea/modules/Problems/The index of the first max in an array/Tic-Tac-Toe_with_AI.Problems-The_index_of_the_first_max_in_an_array.main.iml	(date 1597205644840)
+@@ -0,0 +1,12 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module external.linked.project.id=":Problems-The_index_of_the_first_max_in_an_array:main" external.linked.project.path="$MODULE_DIR$/../../../../Problems/The index of the first max in an array" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Tic-Tac-Toe_with_AI" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <output url="file://$MODULE_DIR$/../../../../Problems/The index of the first max in an array/out/production/classes" />
++    <exclude-output />
++    <content url="file://$MODULE_DIR$/../../../../Problems/The index of the first max in an array/src">
++      <sourceFolder url="file://$MODULE_DIR$/../../../../Problems/The index of the first max in an array/src" isTestSource="false" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: .idea/modules/Problems/Mutable geometric shapes/Tic-Tac-Toe_with_AI.Problems-Mutable_geometric_shapes.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules/Problems/Mutable geometric shapes/Tic-Tac-Toe_with_AI.Problems-Mutable_geometric_shapes.iml	(date 1597380205479)
++++ .idea/modules/Problems/Mutable geometric shapes/Tic-Tac-Toe_with_AI.Problems-Mutable_geometric_shapes.iml	(date 1597380205479)
+@@ -0,0 +1,13 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module external.linked.project.id=":Problems-Mutable_geometric_shapes" external.linked.project.path="$MODULE_DIR$/../../../../Problems/Mutable geometric shapes" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Tic-Tac-Toe_with_AI" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager" inherit-compiler-output="true">
++    <exclude-output />
++    <content url="file://$MODULE_DIR$/../../../../Problems/Mutable geometric shapes">
++      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems/Mutable geometric shapes/.gradle" />
++      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems/Mutable geometric shapes/build" />
++      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems/Mutable geometric shapes/out" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: .idea/modules/Problems/Mutable geometric shapes/Tic-Tac-Toe_with_AI.Problems-Mutable_geometric_shapes.main.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules/Problems/Mutable geometric shapes/Tic-Tac-Toe_with_AI.Problems-Mutable_geometric_shapes.main.iml	(date 1597380205739)
++++ .idea/modules/Problems/Mutable geometric shapes/Tic-Tac-Toe_with_AI.Problems-Mutable_geometric_shapes.main.iml	(date 1597380205739)
+@@ -0,0 +1,12 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module external.linked.project.id=":Problems-Mutable_geometric_shapes:main" external.linked.project.path="$MODULE_DIR$/../../../../Problems/Mutable geometric shapes" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Tic-Tac-Toe_with_AI" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <output url="file://$MODULE_DIR$/../../../../Problems/Mutable geometric shapes/out/production/classes" />
++    <exclude-output />
++    <content url="file://$MODULE_DIR$/../../../../Problems/Mutable geometric shapes/src">
++      <sourceFolder url="file://$MODULE_DIR$/../../../../Problems/Mutable geometric shapes/src" isTestSource="false" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: .idea/modules/Problems/Mutable geometric shapes/Tic-Tac-Toe_with_AI.Problems-Mutable_geometric_shapes.test.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules/Problems/Mutable geometric shapes/Tic-Tac-Toe_with_AI.Problems-Mutable_geometric_shapes.test.iml	(date 1597380205675)
++++ .idea/modules/Problems/Mutable geometric shapes/Tic-Tac-Toe_with_AI.Problems-Mutable_geometric_shapes.test.iml	(date 1597380205675)
+@@ -0,0 +1,31 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module external.linked.project.id=":Problems-Mutable_geometric_shapes:test" external.linked.project.path="$MODULE_DIR$/../../../../Problems/Mutable geometric shapes" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Tic-Tac-Toe_with_AI" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <output-test url="file://$MODULE_DIR$/../../../../Problems/Mutable geometric shapes/out/test/classes" />
++    <exclude-output />
++    <content url="file://$MODULE_DIR$/../../../../Problems/Mutable geometric shapes/src/test" />
++    <content url="file://$MODULE_DIR$/../../../../Problems/Mutable geometric shapes/test" />
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++    <orderEntry type="module" module-name="Tic-Tac-Toe_with_AI.Problems-Mutable_geometric_shapes.main" />
++    <orderEntry type="library" name="Gradle: com.github.hyperskill:hs-test:v7.0.1" level="project" />
++    <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
++    <orderEntry type="library" name="Gradle: org.assertj:assertj-swing-junit:3.8.0" level="project" />
++    <orderEntry type="library" name="Gradle: com.github.stefanbirkner:system-rules:1.19.0" level="project" />
++    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpclient:4.5.9" level="project" />
++    <orderEntry type="library" name="Gradle: com.google.code.gson:gson:2.8.5" level="project" />
++    <orderEntry type="library" name="Gradle: com.cedarsoftware:json-io:4.10.1" level="project" />
++    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.9.8" level="project" />
++    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
++    <orderEntry type="library" name="Gradle: org.assertj:assertj-swing:3.8.0" level="project" />
++    <orderEntry type="library" name="Gradle: org.easytesting:fest-reflect:1.4.1" level="project" />
++    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpcore:4.4.11" level="project" />
++    <orderEntry type="library" name="Gradle: commons-logging:commons-logging:1.2" level="project" />
++    <orderEntry type="library" name="Gradle: commons-codec:commons-codec:1.11" level="project" />
++    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.9.0" level="project" />
++    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.9.8" level="project" />
++    <orderEntry type="library" name="Gradle: org.assertj:assertj-core:3.8.0" level="project" />
++    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.easytesting:fest-util:1.2.5" level="project" />
++  </component>
++  <component name="TestModuleProperties" production-module="Tic-Tac-Toe_with_AI.Problems-Mutable_geometric_shapes.main" />
++</module>
+\ No newline at end of file
+Index: .idea/modules/Problems/Compact strings with AsciiCharSequence/Tic-Tac-Toe_with_AI.Problems-Compact_strings_with_AsciiCharSequence.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules/Problems/Compact strings with AsciiCharSequence/Tic-Tac-Toe_with_AI.Problems-Compact_strings_with_AsciiCharSequence.iml	(date 1597461720554)
++++ .idea/modules/Problems/Compact strings with AsciiCharSequence/Tic-Tac-Toe_with_AI.Problems-Compact_strings_with_AsciiCharSequence.iml	(date 1597461720554)
+@@ -0,0 +1,13 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module external.linked.project.id=":Problems-Compact_strings_with_AsciiCharSequence" external.linked.project.path="$MODULE_DIR$/../../../../Problems/Compact strings with AsciiCharSequence" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Tic-Tac-Toe_with_AI" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager" inherit-compiler-output="true">
++    <exclude-output />
++    <content url="file://$MODULE_DIR$/../../../../Problems/Compact strings with AsciiCharSequence">
++      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems/Compact strings with AsciiCharSequence/.gradle" />
++      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems/Compact strings with AsciiCharSequence/build" />
++      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems/Compact strings with AsciiCharSequence/out" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: .idea/modules/Problems/Compact strings with AsciiCharSequence/Tic-Tac-Toe_with_AI.Problems-Compact_strings_with_AsciiCharSequence.main.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules/Problems/Compact strings with AsciiCharSequence/Tic-Tac-Toe_with_AI.Problems-Compact_strings_with_AsciiCharSequence.main.iml	(date 1597461720742)
++++ .idea/modules/Problems/Compact strings with AsciiCharSequence/Tic-Tac-Toe_with_AI.Problems-Compact_strings_with_AsciiCharSequence.main.iml	(date 1597461720742)
+@@ -0,0 +1,12 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module external.linked.project.id=":Problems-Compact_strings_with_AsciiCharSequence:main" external.linked.project.path="$MODULE_DIR$/../../../../Problems/Compact strings with AsciiCharSequence" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Tic-Tac-Toe_with_AI" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <output url="file://$MODULE_DIR$/../../../../Problems/Compact strings with AsciiCharSequence/out/production/classes" />
++    <exclude-output />
++    <content url="file://$MODULE_DIR$/../../../../Problems/Compact strings with AsciiCharSequence/src">
++      <sourceFolder url="file://$MODULE_DIR$/../../../../Problems/Compact strings with AsciiCharSequence/src" isTestSource="false" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: .idea/modules/Problems/Compact strings with AsciiCharSequence/Tic-Tac-Toe_with_AI.Problems-Compact_strings_with_AsciiCharSequence.test.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules/Problems/Compact strings with AsciiCharSequence/Tic-Tac-Toe_with_AI.Problems-Compact_strings_with_AsciiCharSequence.test.iml	(date 1597461720654)
++++ .idea/modules/Problems/Compact strings with AsciiCharSequence/Tic-Tac-Toe_with_AI.Problems-Compact_strings_with_AsciiCharSequence.test.iml	(date 1597461720654)
+@@ -0,0 +1,31 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module external.linked.project.id=":Problems-Compact_strings_with_AsciiCharSequence:test" external.linked.project.path="$MODULE_DIR$/../../../../Problems/Compact strings with AsciiCharSequence" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Tic-Tac-Toe_with_AI" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <output-test url="file://$MODULE_DIR$/../../../../Problems/Compact strings with AsciiCharSequence/out/test/classes" />
++    <exclude-output />
++    <content url="file://$MODULE_DIR$/../../../../Problems/Compact strings with AsciiCharSequence/src/test" />
++    <content url="file://$MODULE_DIR$/../../../../Problems/Compact strings with AsciiCharSequence/test" />
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++    <orderEntry type="module" module-name="Tic-Tac-Toe_with_AI.Problems-Compact_strings_with_AsciiCharSequence.main" />
++    <orderEntry type="library" name="Gradle: com.github.hyperskill:hs-test:v7.0.1" level="project" />
++    <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
++    <orderEntry type="library" name="Gradle: org.assertj:assertj-swing-junit:3.8.0" level="project" />
++    <orderEntry type="library" name="Gradle: com.github.stefanbirkner:system-rules:1.19.0" level="project" />
++    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpclient:4.5.9" level="project" />
++    <orderEntry type="library" name="Gradle: com.google.code.gson:gson:2.8.5" level="project" />
++    <orderEntry type="library" name="Gradle: com.cedarsoftware:json-io:4.10.1" level="project" />
++    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.9.8" level="project" />
++    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
++    <orderEntry type="library" name="Gradle: org.assertj:assertj-swing:3.8.0" level="project" />
++    <orderEntry type="library" name="Gradle: org.easytesting:fest-reflect:1.4.1" level="project" />
++    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpcore:4.4.11" level="project" />
++    <orderEntry type="library" name="Gradle: commons-logging:commons-logging:1.2" level="project" />
++    <orderEntry type="library" name="Gradle: commons-codec:commons-codec:1.11" level="project" />
++    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.9.0" level="project" />
++    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.9.8" level="project" />
++    <orderEntry type="library" name="Gradle: org.assertj:assertj-core:3.8.0" level="project" />
++    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.easytesting:fest-util:1.2.5" level="project" />
++  </component>
++  <component name="TestModuleProperties" production-module="Tic-Tac-Toe_with_AI.Problems-Compact_strings_with_AsciiCharSequence.main" />
++</module>
+\ No newline at end of file
+Index: .idea/gradle.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/gradle.xml	(date 1597467422068)
++++ .idea/gradle.xml	(date 1597467422068)
+@@ -0,0 +1,28 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="GradleMigrationSettings" migrationVersion="1" />
++  <component name="GradleSettings">
++    <option name="linkedExternalProjectsSettings">
++      <GradleProjectSettings>
++        <option name="delegatedBuild" value="false" />
++        <option name="testRunner" value="GRADLE" />
++        <option name="distributionType" value="WRAPPED" />
++        <option name="externalProjectPath" value="$PROJECT_DIR$" />
++        <option name="gradleJvm" value="#JAVA_INTERNAL" />
++        <option name="modules">
++          <set>
++            <option value="$PROJECT_DIR$" />
++            <option value="$PROJECT_DIR$/Problems/Compact strings with AsciiCharSequence" />
++            <option value="$PROJECT_DIR$/Problems/Find the seed" />
++            <option value="$PROJECT_DIR$/Problems/Getting the fullname" />
++            <option value="$PROJECT_DIR$/Problems/Mutable geometric shapes" />
++            <option value="$PROJECT_DIR$/Problems/Symmetric matrix" />
++            <option value="$PROJECT_DIR$/Problems/The index of the first max in an array" />
++            <option value="$PROJECT_DIR$/Tic-Tac-Toe with AI/task" />
++            <option value="$PROJECT_DIR$/util" />
++          </set>
++        </option>
++      </GradleProjectSettings>
++    </option>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/modules/Tic-Tac-Toe_with_AI.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules/Tic-Tac-Toe_with_AI.iml	(date 1596178421001)
++++ .idea/modules/Tic-Tac-Toe_with_AI.iml	(date 1596178421001)
+@@ -0,0 +1,12 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module external.linked.project.id="Tic-Tac-Toe_with_AI" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager" inherit-compiler-output="true">
++    <exclude-output />
++    <content url="file://$MODULE_DIR$/../..">
++      <excludeFolder url="file://$MODULE_DIR$/../../.gradle" />
++      <excludeFolder url="file://$MODULE_DIR$/../../build" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: .idea/modules/Problems/Symmetric matrix/Tic-Tac-Toe_with_AI.Problems-Symmetric_matrix.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules/Problems/Symmetric matrix/Tic-Tac-Toe_with_AI.Problems-Symmetric_matrix.iml	(date 1596178421081)
++++ .idea/modules/Problems/Symmetric matrix/Tic-Tac-Toe_with_AI.Problems-Symmetric_matrix.iml	(date 1596178421081)
+@@ -0,0 +1,13 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module external.linked.project.id=":Problems-Symmetric_matrix" external.linked.project.path="$MODULE_DIR$/../../../../Problems/Symmetric matrix" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Tic-Tac-Toe_with_AI" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager" inherit-compiler-output="true">
++    <exclude-output />
++    <content url="file://$MODULE_DIR$/../../../../Problems/Symmetric matrix">
++      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems/Symmetric matrix/.gradle" />
++      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems/Symmetric matrix/build" />
++      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems/Symmetric matrix/out" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: .idea/modules/Tic-Tac-Toe with AI/task/Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules/Tic-Tac-Toe with AI/task/Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task.iml	(date 1596178421169)
++++ .idea/modules/Tic-Tac-Toe with AI/task/Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task.iml	(date 1596178421169)
+@@ -0,0 +1,13 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module external.linked.project.id=":Tic-Tac-Toe_with_AI-task" external.linked.project.path="$MODULE_DIR$/../../../../Tic-Tac-Toe with AI/task" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Tic-Tac-Toe_with_AI" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager" inherit-compiler-output="true">
++    <exclude-output />
++    <content url="file://$MODULE_DIR$/../../../../Tic-Tac-Toe with AI/task">
++      <excludeFolder url="file://$MODULE_DIR$/../../../../Tic-Tac-Toe with AI/task/.gradle" />
++      <excludeFolder url="file://$MODULE_DIR$/../../../../Tic-Tac-Toe with AI/task/build" />
++      <excludeFolder url="file://$MODULE_DIR$/../../../../Tic-Tac-Toe with AI/task/out" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: .idea/modules/util/Tic-Tac-Toe_with_AI.util.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules/util/Tic-Tac-Toe_with_AI.util.iml	(date 1596178421257)
++++ .idea/modules/util/Tic-Tac-Toe_with_AI.util.iml	(date 1596178421257)
+@@ -0,0 +1,13 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module external.linked.project.id=":util" external.linked.project.path="$MODULE_DIR$/../../../util" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="Tic-Tac-Toe_with_AI" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager" inherit-compiler-output="true">
++    <exclude-output />
++    <content url="file://$MODULE_DIR$/../../../util">
++      <excludeFolder url="file://$MODULE_DIR$/../../../util/.gradle" />
++      <excludeFolder url="file://$MODULE_DIR$/../../../util/build" />
++      <excludeFolder url="file://$MODULE_DIR$/../../../util/out" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
