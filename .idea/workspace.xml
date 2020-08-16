@@ -13,7 +13,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="124855c0-f21e-4a92-bd19-0b156c48aaf6" name="Default Changelist" comment="" />
+    <list default="true" id="124855c0-f21e-4a92-bd19-0b156c48aaf6" name="Default Changelist" comment="First Commit">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/src/tictactoe/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/src/tictactoe/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,6 +122,14 @@
       <option name="presentableId" value="Default" />
       <updated>1596176880363</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1597548853753</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597548853753</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -129,6 +145,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="296" y="36" key="#Gradle" timestamp="1597025301885">
@@ -159,30 +180,30 @@
       <screen x="0" y="0" width="1366" height="732" />
     </state>
     <state x="439" y="211" width="477" height="308" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.732@0.0.1366.732" timestamp="1597126580161" />
-    <state x="471" y="124" key="FileChooserDialogImpl" timestamp="1597548188625">
+    <state x="471" y="124" key="FileChooserDialogImpl" timestamp="1597548987448">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
-    <state x="471" y="124" key="FileChooserDialogImpl/0.0.1366.732@0.0.1366.732" timestamp="1597548188625" />
-    <state x="529" y="266" key="Github.ShareDialog" timestamp="1597548134823">
+    <state x="471" y="124" key="FileChooserDialogImpl/0.0.1366.732@0.0.1366.732" timestamp="1597548987448" />
+    <state x="529" y="266" key="Github.ShareDialog" timestamp="1597548932820">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
-    <state x="529" y="266" key="Github.ShareDialog/0.0.1366.732@0.0.1366.732" timestamp="1597548134823" />
-    <state width="1320" height="402" key="GridCell.Tab.0.bottom" timestamp="1597548558960">
+    <state x="529" y="266" key="Github.ShareDialog/0.0.1366.732@0.0.1366.732" timestamp="1597548932820" />
+    <state width="1320" height="402" key="GridCell.Tab.0.bottom" timestamp="1597549007971">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
-    <state width="1320" height="402" key="GridCell.Tab.0.bottom/0.0.1366.732@0.0.1366.732" timestamp="1597548558960" />
-    <state width="1320" height="402" key="GridCell.Tab.0.center" timestamp="1597548558938">
+    <state width="1320" height="402" key="GridCell.Tab.0.bottom/0.0.1366.732@0.0.1366.732" timestamp="1597549007971" />
+    <state width="1320" height="402" key="GridCell.Tab.0.center" timestamp="1597549007970">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
-    <state width="1320" height="402" key="GridCell.Tab.0.center/0.0.1366.732@0.0.1366.732" timestamp="1597548558938" />
-    <state width="1320" height="402" key="GridCell.Tab.0.left" timestamp="1597548558933">
+    <state width="1320" height="402" key="GridCell.Tab.0.center/0.0.1366.732@0.0.1366.732" timestamp="1597549007970" />
+    <state width="1320" height="402" key="GridCell.Tab.0.left" timestamp="1597549007969">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
-    <state width="1320" height="402" key="GridCell.Tab.0.left/0.0.1366.732@0.0.1366.732" timestamp="1597548558933" />
-    <state width="1320" height="402" key="GridCell.Tab.0.right" timestamp="1597548558959">
+    <state width="1320" height="402" key="GridCell.Tab.0.left/0.0.1366.732@0.0.1366.732" timestamp="1597549007969" />
+    <state width="1320" height="402" key="GridCell.Tab.0.right" timestamp="1597549007971">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
-    <state width="1320" height="402" key="GridCell.Tab.0.right/0.0.1366.732@0.0.1366.732" timestamp="1597548558959" />
+    <state width="1320" height="402" key="GridCell.Tab.0.right/0.0.1366.732@0.0.1366.732" timestamp="1597549007971" />
     <state width="1320" height="215" key="GridCell.Tab.1.bottom" timestamp="1597548367128">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
